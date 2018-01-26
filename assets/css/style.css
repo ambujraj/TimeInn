@@ -1,0 +1,46 @@
+
+body {
+    background: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+
+
+
+
+/***** Coming Soon *****/
+
+.coming-soon {
+    margin: 0 auto;
+}
+
+.inner-bg {
+    padding: 75px 0 40px 0;
+}
+.timer {
+    margin-top: 60px;
+}
+
+.timer .days-wrapper,
+.timer .hours-wrapper,
+.timer .minutes-wrapper,
+.timer .seconds-wrapper {
+    display: inline-block;
+    width: 160px;
+    margin: 0 10px;
+    font-size: 18px;
+}
+
+.timer .days,
+.timer .hours,
+.timer .minutes,
+.timer .seconds {
+    font-size: 80px;
+    font-weight: 100;
+    line-height: 90px;
+}
